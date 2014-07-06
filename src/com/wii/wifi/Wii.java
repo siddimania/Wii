@@ -1,6 +1,8 @@
+/*
+@author: Siddhartha Dimania
+*/
+
 package com.wii.wifi;
-
-
 
 import android.app.Activity;
 import android.content.Context;
